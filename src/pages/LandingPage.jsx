@@ -14,7 +14,7 @@ const LandingPage = () => {
       animate={{ opacity: 1 }}
       transition={{ duration: 0.8 }}
       bgGradient="linear(to-br, teal.400, blue.600)"
-      minH="100vh"
+      minH="92vh"
       textAlign="center"
       color="white"
       display="flex"
